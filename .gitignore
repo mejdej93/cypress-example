@@ -105,3 +105,6 @@ dist
 
 # IDE
 .idea
+
+# cypress
+/cypress/videos/

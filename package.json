@@ -4,7 +4,9 @@
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "cypress:chrome": "cypress run --browser chrome",
+    "cypress:firefox": "cypress run --browser firefox"
   },
   "devDependencies": {
     "cypress": "^5.3.0"
